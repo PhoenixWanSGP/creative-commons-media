@@ -36,6 +36,7 @@ Contributions are very welcome!
 * [Unsplash](https://unsplash.com/) - Library of high-resolution images.
 * [WorldImages Kiosk](http://worldimages.sjsu.edu/) - Library of 75,000 images that students can use in their academic projects.
 * [Wylio](http://wylio.com/) - Image search engine with focus on bloggers. Requires login.
+* [FLUX IMAGE](https://fluximage.app)-FLUX.1: AI Image Generation Model Online by FLUX IMAGE
 
 ## Video
 
