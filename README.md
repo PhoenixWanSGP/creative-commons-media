@@ -36,6 +36,8 @@ Contributions are very welcome!
 * [Unsplash](https://unsplash.com/) - Library of high-resolution images.
 * [WorldImages Kiosk](http://worldimages.sjsu.edu/) - Library of 75,000 images that students can use in their academic projects.
 * [Wylio](http://wylio.com/) - Image search engine with focus on bloggers. Requires login.
+* [Ideogram 2.0 AI](https://fluximage.app/models/Ideogram/V-2) - Best AI tool for precise text rendering and design.
+
 
 ## Video
 
